@@ -1,0 +1,9 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "no-redeclare": "off",
+    "no-console": "warn",
+    "@typescript-eslint/no-redeclare": "off",
+    "no-template-curly-in-string": "off"
+  }
+}
